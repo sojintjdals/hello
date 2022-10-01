@@ -1,0 +1,45 @@
+[2022-10-01 15:38:13.280] [INFO ] [main] com.springboot.hello.HelloApplication Starting HelloApplication using Java 15.0.6 on DESKTOP-4AKTODL with PID 5192 (D:\springboot\hello\target\classes started by user in D:\springboot\hello)
+[2022-10-01 15:38:13.283] [INFO ] [main] com.springboot.hello.HelloApplication No active profile set, falling back to 1 default profile: "default"
+[2022-10-01 15:38:14.269] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+[2022-10-01 15:38:14.277] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:38:14.277] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2022-10-01 15:38:14.277] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.65]
+[2022-10-01 15:38:14.364] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2022-10-01 15:38:14.364] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1039 ms
+[2022-10-01 15:38:14.648] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-10-01 15:38:14.784] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:38:14.801] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+[2022-10-01 15:38:14.802] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2022-10-01 15:38:14.814] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2022-10-01 15:38:14.835] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2022-10-01 15:38:14.959] [INFO ] [main] com.springboot.hello.HelloApplication Started HelloApplication in 2.034 seconds (JVM running for 2.376)
+[2022-10-01 15:38:49.265] [INFO ] [main] com.springboot.hello.HelloApplication Starting HelloApplication using Java 15.0.6 on DESKTOP-4AKTODL with PID 1980 (D:\springboot\hello\target\classes started by user in D:\springboot\hello)
+[2022-10-01 15:38:49.270] [INFO ] [main] com.springboot.hello.HelloApplication No active profile set, falling back to 1 default profile: "default"
+[2022-10-01 15:38:50.244] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+[2022-10-01 15:38:50.251] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:38:50.251] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2022-10-01 15:38:50.252] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.65]
+[2022-10-01 15:38:50.341] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2022-10-01 15:38:50.341] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1031 ms
+[2022-10-01 15:38:50.625] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-10-01 15:38:50.772] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:38:50.792] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+[2022-10-01 15:38:50.793] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2022-10-01 15:38:50.805] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2022-10-01 15:38:50.831] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2022-10-01 15:38:51.103] [INFO ] [main] com.springboot.hello.HelloApplication Started HelloApplication in 2.195 seconds (JVM running for 2.482)
+[2022-10-01 15:39:21.042] [INFO ] [main] com.springboot.hello.HelloApplication Starting HelloApplication using Java 15.0.6 on DESKTOP-4AKTODL with PID 12972 (D:\springboot\hello\target\classes started by user in D:\springboot\hello)
+[2022-10-01 15:39:21.045] [INFO ] [main] com.springboot.hello.HelloApplication No active profile set, falling back to 1 default profile: "default"
+[2022-10-01 15:39:22.103] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+[2022-10-01 15:39:22.110] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:39:22.111] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2022-10-01 15:39:22.111] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.65]
+[2022-10-01 15:39:22.200] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2022-10-01 15:39:22.200] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1095 ms
+[2022-10-01 15:39:22.493] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-10-01 15:39:22.630] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+[2022-10-01 15:39:22.647] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+[2022-10-01 15:39:22.648] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2022-10-01 15:39:22.660] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2022-10-01 15:39:22.677] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2022-10-01 15:39:22.813] [INFO ] [main] com.springboot.hello.HelloApplication Started HelloApplication in 2.187 seconds (JVM running for 2.504)

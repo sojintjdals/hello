@@ -30,4 +30,5 @@ public class HelloController {
     public String getRequestParam3(MemberDto memberDto){
         return memberDto.toString();
     }
+
 }
