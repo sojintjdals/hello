@@ -1,6 +1,8 @@
 package com.springboot.hello.controller;
 
+import ch.qos.logback.classic.Logger;
 import com.springboot.hello.dto.MemberDto;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -10,6 +12,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/v1/post-api")
 public class PostController {
+
     @RequestMapping(value = "/domain", method = RequestMethod.POST)
     public String postExample(){
         return "Hello Post API";
